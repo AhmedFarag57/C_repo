@@ -3,6 +3,12 @@
 int main() {
 
 	printf("Hello world!");
+
+	// git sum of 2 number
+	int x = 5;
+	int y = 6;
+	int z = x + y;
+	printf("\nThe sum of two number is : %d",&z);
 	
 	return 1;
 }
